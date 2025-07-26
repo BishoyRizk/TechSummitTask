@@ -1,4 +1,4 @@
-# Project Name
+# NotesApp (TechSummit)
 
 ## How to Run the App
 
