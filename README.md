@@ -39,8 +39,8 @@ Create a new note.
 DELETE /deleteNote/:id
 Delete a note by its ID.
 
-POST /summerizeNote
-Summarize the content of a note.
+POST /:id/summerizeNote
+Summarize the content of a note by its ID.
 
 GET /getNotes
 Retrieve all notes for the authenticated user using graphQL.
